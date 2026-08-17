@@ -1,0 +1,576 @@
+2026-08-05 16:50:08 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro (uuid=3a79cecb-5a10-4920-9fa7-8a050c92399a)
+2026-08-05 16:50:08 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=3a79cecb-5a10-4920-9fa7-8a050c92399a)
+2026-08-05 16:50:09 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 16:50:10 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 16:50:11 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 16:50:12 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=3a79cecb-5a10-4920-9fa7-8a050c92399a)
+2026-08-05 16:50:12 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 16:50:12 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 16:50:12 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 16:53:55 | INFO     | DEVICE | UUID local já existente (uuid=3a79cecb-5a10-4920-9fa7-8a050c92399a) — este script simula apenas a PRIMEIRA execução. Apague simulated_data/device_id para repetir.
+2026-08-05 16:54:48 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro (uuid=05369b6f-234c-4d45-b275-3c3176ed9930)
+2026-08-05 16:54:48 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=05369b6f-234c-4d45-b275-3c3176ed9930)
+2026-08-05 16:54:49 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 16:54:50 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 16:54:51 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 16:54:52 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=05369b6f-234c-4d45-b275-3c3176ed9930)
+2026-08-05 16:54:52 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 16:54:53 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 16:54:53 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 16:55:42 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro (uuid=c0e845fd-d870-461b-af46-d874dcb7f726)
+2026-08-05 16:55:42 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=c0e845fd-d870-461b-af46-d874dcb7f726)
+2026-08-05 16:55:43 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 16:55:44 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 16:55:45 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 16:55:46 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=c0e845fd-d870-461b-af46-d874dcb7f726)
+2026-08-05 16:55:46 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 16:55:46 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 16:55:46 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 16:56:29 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro...
+2026-08-05 16:56:29 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=68228971-2a11-4257-abd5-6831b4b7a049)
+2026-08-05 16:56:30 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 16:56:31 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 16:56:32 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 16:56:33 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=68228971-2a11-4257-abd5-6831b4b7a049)
+2026-08-05 16:56:33 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 16:56:33 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 16:56:33 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 16:56:35 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro.
+2026-08-05 16:56:35 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=453749ec-03b0-4b66-a2af-1ba8a50e24bd)
+2026-08-05 16:56:36 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 16:56:37 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 16:56:38 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 16:56:39 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=453749ec-03b0-4b66-a2af-1ba8a50e24bd)
+2026-08-05 16:56:39 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 16:56:39 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 16:56:39 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 17:17:10 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro.
+2026-08-05 17:17:10 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=97df78c0-75c5-471d-8d76-d0b175c104d8)
+2026-08-05 17:17:11 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 17:17:12 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 17:18:24 | INFO     | SENSOR_MANAGER | Iniciando varredura de sensores cadastrados
+2026-08-05 17:18:24 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=temperatura modelo=DHT22 porta=GPIO4 id=ea35cb1f-7bc2-4506-8345-999bfddf0448
+2026-08-05 17:18:24 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=umidade_solo modelo=Capacitivo v1.2 porta=A0 id=2d8d562d-d1c2-4a04-8714-eb9813d2e758
+2026-08-05 17:18:24 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=luminosidade modelo=BH1750 porta=I2C-0x23 id=686dd36b-bc73-43ce-96aa-c848548fcf80
+2026-08-05 17:18:24 | INFO     | SENSOR_MANAGER | Varredura concluída: 3 sensor(es) encontrado(s)
+2026-08-05 17:18:24 | INFO     | SENSOR_MANAGER | Sensor de temperatura identificado (modelo=DHT22, porta=GPIO4)
+2026-08-05 17:18:24 | DEBUG    | SENSOR | Inicializando sensor de temperatura (modelo=DHT22, porta=GPIO4)
+2026-08-05 17:18:25 | INFO     | SENSOR | Sensor de temperatura pronto para leitura
+2026-08-05 17:18:25 | INFO     | SENSOR | Iniciando ciclo de leituras (6 leituras programadas)
+2026-08-05 17:18:25 | DEBUG    | SENSOR | Leitura #1: temperatura=22.4°C (dentro da faixa normal)
+2026-08-05 17:18:26 | DEBUG    | SENSOR | Leitura #2: temperatura=23.1°C (dentro da faixa normal)
+2026-08-05 17:18:26 | DEBUG    | SENSOR | Leitura #3: temperatura=24.6°C (dentro da faixa normal)
+2026-08-05 17:18:27 | WARNING  | SENSOR | Leitura #4: temperatura=31.8°C fora da faixa esperada (18.0°C – 29.0°C). Verifique a exposição do sensor ou condições ambientais da planta.
+2026-08-05 17:18:27 | DEBUG    | SENSOR | Leitura #5: temperatura=24.9°C (dentro da faixa normal)
+2026-08-05 17:18:28 | DEBUG    | SENSOR | Leitura #6: temperatura=23.7°C (dentro da faixa normal)
+2026-08-05 17:18:28 | INFO     | SENSOR | Ciclo de leituras finalizado (6 leituras realizadas)
+2026-08-05 17:32:36 | INFO     | SENSOR_MANAGER | Iniciando varredura de sensores cadastrados
+2026-08-05 17:32:37 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=temperatura modelo=DHT22 porta=GPIO4 id=a0ba3fc0-421c-4050-8537-d0be423025a4
+2026-08-05 17:32:37 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=umidade_solo modelo=Capacitivo v1.2 porta=A0 id=e53ff2c2-1018-41fd-a041-0852c859c200
+2026-08-05 17:32:37 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=luminosidade modelo=BH1750 porta=I2C-0x23 id=51a28a2d-4289-4808-927f-d21a6049b888
+2026-08-05 17:32:37 | INFO     | SENSOR_MANAGER | Varredura concluída: 3 sensor(es) encontrado(s)
+2026-08-05 17:32:37 | INFO     | SENSOR_MANAGER | Sensor de temperatura identificado (modelo=DHT22, porta=GPIO4)
+2026-08-05 17:32:37 | DEBUG    | SENSOR | Inicializando sensor de temperatura (modelo=DHT22, porta=GPIO4)
+2026-08-05 17:32:37 | INFO     | SENSOR | Sensor de temperatura pronto para leitura
+2026-08-05 17:32:37 | INFO     | SENSOR | Iniciando ciclo de leituras (6 leituras programadas)
+2026-08-05 17:32:38 | DEBUG    | SENSOR | Leitura #1: temperatura=22.4°C (dentro da faixa normal)
+2026-08-05 17:32:38 | DEBUG    | SENSOR | Leitura #2: temperatura=23.1°C (dentro da faixa normal)
+2026-08-05 17:32:39 | DEBUG    | SENSOR | Leitura #3: temperatura=24.6°C (dentro da faixa normal)
+2026-08-05 17:32:39 | WARNING  | SENSOR | Leitura #4: temperatura=31.8°C fora da faixa esperada (18.0°C – 29.0°C).
+2026-08-05 17:32:40 | DEBUG    | SENSOR | Leitura #5: temperatura=24.9°C (dentro da faixa normal)
+2026-08-05 17:32:40 | DEBUG    | SENSOR | Leitura #6: temperatura=23.7°C (dentro da faixa normal)
+2026-08-05 17:32:40 | INFO     | SENSOR | Ciclo de leituras finalizado (6 leituras realizadas)
+2026-08-05 20:58:28 | INFO     | DEVICE | UUID local já existente (uuid=453749ec-03b0-4b66-a2af-1ba8a50e24bd) — este script simula apenas a PRIMEIRA execução. Apague simulated_data/device_id para repetir.
+2026-08-05 20:58:58 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro (uuid=4b2aade3-9672-4384-8d28-729c3cb5df56)
+2026-08-05 20:58:58 | INFO     | DEVICE | Aguardando confirmação de pareamento pelo usuário (uuid=4b2aade3-9672-4384-8d28-729c3cb5df56)
+2026-08-05 20:58:59 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 1/4)
+2026-08-05 20:59:00 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 2/4)
+2026-08-05 20:59:01 | DEBUG    | DEVICE | Pareamento ainda não confirmado, aguardando... (tentativa 3/4)
+2026-08-05 20:59:02 | INFO     | DEVICE | Pareamento confirmado pelo usuário (uuid=4b2aade3-9672-4384-8d28-729c3cb5df56)
+2026-08-05 20:59:02 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 20:59:02 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 20:59:02 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 21:00:12 | INFO     | SENSOR_MANAGER | Iniciando varredura de sensores cadastrados
+2026-08-05 21:00:12 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=temperatura modelo=DHT22 porta=GPIO4 id=9dc75292-9b0f-4915-b3d4-fa4c85976e43
+2026-08-05 21:00:12 | INFO     | SENSOR_MANAGER | Varredura concluída: 1 sensor(es) encontrado(s)
+2026-08-05 21:00:12 | INFO     | SENSOR | Iniciando leitura do sensor de temperatura (modelo=DHT22, porta=GPIO4)
+2026-08-05 21:00:12 | DEBUG    | SENSOR | Tentativa 1/5 de leitura do sensor
+2026-08-05 21:00:12 | WARNING  | SENSOR | Sensor não respondeu (timeout de comunicação) na porta GPIO4 (tentativa 1/5)
+2026-08-05 21:00:12 | DEBUG    | SENSOR | Aguardando 0.5s antes da próxima tentativa (backoff exponencial)
+2026-08-05 21:00:13 | DEBUG    | SENSOR | Tentativa 2/5 de leitura do sensor
+2026-08-05 21:00:13 | WARNING  | SENSOR | Sensor não respondeu (timeout de comunicação) na porta GPIO4 (tentativa 2/5)
+2026-08-05 21:00:13 | DEBUG    | SENSOR | Aguardando 1.0s antes da próxima tentativa (backoff exponencial)
+2026-08-05 21:00:14 | DEBUG    | SENSOR | Tentativa 3/5 de leitura do sensor
+2026-08-05 21:00:14 | ERROR    | SENSOR | Leitura descartada: valor fisicamente impossível (-127.0°C) — possível falha de contato ou fiação no sensor (tentativa 3/5)
+2026-08-05 21:00:14 | DEBUG    | SENSOR | Aguardando 2.0s antes da próxima tentativa (backoff exponencial)
+2026-08-05 21:00:16 | DEBUG    | SENSOR | Tentativa 4/5 de leitura do sensor
+2026-08-05 21:00:17 | WARNING  | SENSOR | Sensor não respondeu (timeout de comunicação) na porta GPIO4 (tentativa 4/5)
+2026-08-05 21:00:17 | DEBUG    | SENSOR | Aguardando 4.0s antes da próxima tentativa (backoff exponencial)
+2026-08-05 21:00:21 | DEBUG    | SENSOR | Tentativa 5/5 de leitura do sensor
+2026-08-05 21:00:21 | INFO     | SENSOR | Leitura válida obtida na tentativa 5/5: temperatura=24.3°C
+2026-08-05 21:00:21 | INFO     | SENSOR | Sensor recuperado após instabilidade — comunicação normalizada
+2026-08-05 21:00:21 | INFO     | SENSOR | Leitura final consolidada: temperatura=24.3°C
+2026-08-05 21:05:48 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro.
+2026-08-05 21:05:48 | INFO     | DEVICE | Aguardando confirmação de pareamento (uuid=a9d60a15-6d10-453c-9231-660bfed0b666)
+2026-08-05 21:05:49 | DEBUG    | DEVICE | Pareamento pendente (tentativa 1/4)
+2026-08-05 21:05:50 | DEBUG    | DEVICE | Pareamento pendente (tentativa 2/4)
+2026-08-05 21:05:51 | DEBUG    | DEVICE | Pareamento pendente (tentativa 3/4)
+2026-08-05 21:05:52 | INFO     | DEVICE | Pareamento confirmado (uuid=a9d60a15-6d10-453c-9231-660bfed0b666)
+2026-08-05 21:05:52 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 21:05:52 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 21:05:52 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 21:18:07 | WARNING  | DEVICE | Dispositivo não encontrado. Criando novo registro.
+2026-08-05 21:18:08 | INFO     | DEVICE | Aguardando confirmação de pareamento (uuid=8d8dbbc3-241e-4263-8107-419beaa7aaab)
+2026-08-05 21:18:09 | DEBUG    | DEVICE | Pareamento pendente (tentativa 1/4)
+2026-08-05 21:18:10 | DEBUG    | DEVICE | Pareamento pendente (tentativa 2/4)
+2026-08-05 21:18:11 | DEBUG    | DEVICE | Pareamento pendente (tentativa 3/4)
+2026-08-05 21:18:12 | INFO     | DEVICE | Pareamento confirmado (uuid=8d8dbbc3-241e-4263-8107-419beaa7aaab)
+2026-08-05 21:18:12 | DEBUG    | API_CLIENT | Enviando dados do dispositivo para a API
+2026-08-05 21:18:12 | DEBUG    | API_CLIENT | Dispositivo registrado com sucesso na API
+2026-08-05 21:18:12 | INFO     | DEVICE | UUID persistido localmente
+2026-08-05 21:24:28 | INFO     | SENSOR_MANAGER | Iniciando varredura de sensores cadastrados
+2026-08-05 21:24:28 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=temperatura modelo=DHT22 porta=GPIO4 id=72a72609-83c3-4c4f-a88b-35acc1639709
+2026-08-05 21:24:28 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=umidade_solo modelo=Capacitivo v1.2 porta=A0 id=3cfffd6d-c488-4faf-9edb-cad43034189e
+2026-08-05 21:24:28 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=luminosidade modelo=BH1750 porta=I2C-0x23 id=9646d818-2142-4923-9bc5-7388bcf3b01b
+2026-08-05 21:24:28 | INFO     | SENSOR_MANAGER | Varredura concluída: 3 sensor(es) encontrado(s)
+2026-08-05 21:24:28 | INFO     | SENSOR_MANAGER | Sensor de temperatura identificado: modelo=DHT22 porta=GPIO4
+2026-08-05 21:24:28 | DEBUG    | SENSOR | Inicializando sensor: modelo=DHT22 porta=GPIO4
+2026-08-05 21:24:29 | INFO     | SENSOR | Sensor pronto para leitura: porta=GPIO4
+2026-08-05 21:24:29 | INFO     | SENSOR | Iniciando ciclo de leituras: total=6
+2026-08-05 21:24:29 | DEBUG    | SENSOR | Leitura #1: temperatura=22.4
+2026-08-05 21:24:30 | DEBUG    | SENSOR | Leitura #2: temperatura=23.1
+2026-08-05 21:24:30 | DEBUG    | SENSOR | Leitura #3: temperatura=24.6
+2026-08-05 21:24:31 | WARNING  | SENSOR | Leitura fora da faixa esperada: temperatura=31.8 (limite=18.0-29.0)
+2026-08-05 21:24:31 | DEBUG    | SENSOR | Leitura #5: temperatura=24.9
+2026-08-05 21:24:32 | DEBUG    | SENSOR | Leitura #6: temperatura=23.7
+2026-08-05 21:24:32 | INFO     | SENSOR | Ciclo de leituras finalizado: total=6
+2026-08-05 21:29:54 | INFO     | SENSOR_MANAGER | Iniciando varredura de sensores cadastrados
+2026-08-05 21:29:55 | DEBUG    | SENSOR_MANAGER | Sensor detectado: tipo=temperatura modelo=DHT22 porta=GPIO4 id=67bb63a4-4647-469f-bf9d-942cf9300cac
+2026-08-05 21:29:55 | INFO     | SENSOR_MANAGER | Varredura concluída: 1 sensor(es) encontrado(s)
+2026-08-05 21:29:55 | INFO     | SENSOR | Iniciando leitura: modelo=DHT22 porta=GPIO4
+2026-08-05 21:29:55 | DEBUG    | SENSOR | Tentativa 1/5
+2026-08-05 21:29:55 | WARNING  | SENSOR | Sensor não respondeu: porta=GPIO4 tentativa=1/5
+2026-08-05 21:29:55 | DEBUG    | SENSOR | Aguardando 0.5s antes da próxima tentativa
+2026-08-05 21:29:55 | DEBUG    | SENSOR | Tentativa 2/5
+2026-08-05 21:29:56 | WARNING  | SENSOR | Sensor não respondeu: porta=GPIO4 tentativa=2/5
+2026-08-05 21:29:56 | DEBUG    | SENSOR | Aguardando 1.0s antes da próxima tentativa
+2026-08-05 21:29:57 | DEBUG    | SENSOR | Tentativa 3/5
+2026-08-05 21:29:57 | ERROR    | SENSOR | Leitura descartada: temperatura=-127.0 fora dos limites físicos (-40.0-80.0)
+2026-08-05 21:29:57 | DEBUG    | SENSOR | Aguardando 2.0s antes da próxima tentativa
+2026-08-05 21:29:59 | DEBUG    | SENSOR | Tentativa 4/5
+2026-08-05 21:29:59 | WARNING  | SENSOR | Sensor não respondeu: porta=GPIO4 tentativa=4/5
+2026-08-05 21:29:59 | DEBUG    | SENSOR | Aguardando 4.0s antes da próxima tentativa
+2026-08-05 21:30:03 | DEBUG    | SENSOR | Tentativa 5/5
+2026-08-05 21:30:04 | INFO     | SENSOR | Leitura obtida: temperatura=24.3 tentativa=5/5
+2026-08-05 21:30:04 | INFO     | SENSOR | Leitura final: temperatura=24.3
+2026-08-05 21:49:29 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-05 21:49:29 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-05 21:49:29 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 1 (tipo=temperatura, modelo=DHT22, porta=GPIO4)
+2026-08-05 21:49:29 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 2 (tipo=umidade_solo, modelo=Capacitivo v1.2, porta=A0)
+2026-08-05 21:49:29 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 3 (tipo=luminosidade, modelo=BH1750, porta=I2C-0x23)
+2026-08-05 21:49:29 | DEBUG    | SENSOR_WORKER | Runner iniciado: sensor_id=1
+2026-08-05 21:49:30 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 temperatura=22.4
+2026-08-05 21:49:30 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=1 temperatura=23.1
+2026-08-05 21:49:31 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=1 temperatura=24.6
+2026-08-05 21:49:31 | WARNING  | SENSOR_WORKER | Leitura fora da faixa esperada: sensor_id=1 temperatura=31.8 (limite=18.0-29.0)
+2026-08-05 21:49:32 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=1 temperatura=24.9
+2026-08-05 21:49:32 | DEBUG    | SENSOR_WORKER | Leitura #6: sensor_id=1 temperatura=23.7
+2026-08-05 21:49:32 | DEBUG    | SENSOR_WORKER | Buffer de publicação: 6/10 leituras acumuladas (sensor_id=1)
+2026-08-05 21:50:54 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-05 21:50:55 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-05 21:50:55 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 1 (tipo=temperatura, modelo=DHT22, porta=GPIO4)
+2026-08-05 21:50:55 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 2 (tipo=umidade_solo, modelo=Capacitivo v1.2, porta=A0)
+2026-08-05 21:50:55 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 3 (tipo=luminosidade, modelo=BH1750, porta=I2C-0x23)
+2026-08-05 21:50:55 | DEBUG    | SENSOR_WORKER | Runner iniciado: sensor_id=1
+2026-08-05 21:50:56 | DEBUG    | SENSOR_WORKER | Leitura : sensor_id=1 temperatura=22.4
+2026-08-05 21:50:56 | DEBUG    | SENSOR_WORKER | Leitura : sensor_id=1 temperatura=23.1
+2026-08-05 21:50:57 | DEBUG    | SENSOR_WORKER | Leitura : sensor_id=1 temperatura=24.6
+2026-08-05 21:50:57 | WARNING  | SENSOR_WORKER | Leitura fora da faixa esperada: sensor_id=1 temperatura=31.8 (limite=18.0-29.0)
+2026-08-05 21:50:58 | DEBUG    | SENSOR_WORKER | Leitura : sensor_id=1 temperatura=24.9
+2026-08-05 21:50:58 | DEBUG    | SENSOR_WORKER | Leitura : sensor_id=1 temperatura=23.7
+2026-08-05 21:50:58 | DEBUG    | SENSOR_WORKER | Buffer de publicação: 6/10 leituras acumuladas (sensor_id=1)
+2026-08-05 21:51:51 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-05 21:51:51 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-05 21:51:51 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 1 (tipo=temperatura, modelo=DHT22, porta=GPIO4)
+2026-08-05 21:51:51 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 2 (tipo=umidade_solo, modelo=Capacitivo v1.2, porta=A0)
+2026-08-05 21:51:51 | DEBUG    | SENSOR_POOL | Adicionando runner para sensor 3 (tipo=luminosidade, modelo=BH1750, porta=I2C-0x23)
+2026-08-05 21:51:51 | DEBUG    | SENSOR_WORKER | Runner iniciado: sensor_id=1
+2026-08-05 21:51:52 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 temperatura=22.4
+2026-08-05 21:51:52 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=1 temperatura=23.1
+2026-08-05 21:51:53 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=1 temperatura=24.6
+2026-08-05 21:51:53 | WARNING  | SENSOR_WORKER | Leitura fora da faixa esperada: sensor_id=1 temperatura=31.8 (limite=18.0-29.0)
+2026-08-05 21:51:54 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=1 temperatura=24.9
+2026-08-05 21:51:54 | DEBUG    | SENSOR_WORKER | Leitura #6: sensor_id=1 temperatura=23.7
+2026-08-05 21:51:54 | DEBUG    | SENSOR_WORKER | Buffer de publicação: 6/10 leituras acumuladas (sensor_id=1)
+2026-08-05 21:53:40 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-05 21:53:40 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-05 21:53:41 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-05 21:53:41 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-05 21:53:42 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-05 21:53:42 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-05 21:53:43 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-05 21:53:43 | DEBUG    | SENSOR_WORKER | Leitura #6: sensor_id=3 temperatura=23.9
+2026-08-05 21:53:43 | DEBUG    | SENSOR_WORKER | Leitura #7: sensor_id=3 temperatura=24.1
+2026-08-05 21:53:44 | DEBUG    | SENSOR_WORKER | Leitura #8: sensor_id=3 temperatura=25.3
+2026-08-05 21:53:44 | DEBUG    | SENSOR_WORKER | Leitura #9: sensor_id=3 temperatura=24.6
+2026-08-05 21:53:45 | DEBUG    | SENSOR_WORKER | Leitura #10: sensor_id=3 temperatura=23.8
+2026-08-05 21:53:45 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-05 21:53:45 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (140 bytes)
+2026-08-05 21:53:45 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (140 bytes)
+2026-08-05 21:59:04 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-05 21:59:05 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-05 21:59:05 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-05 21:59:05 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-05 21:59:05 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-05 21:59:06 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-05 21:59:06 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-05 21:59:06 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-05 21:59:07 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-05 21:59:07 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-05 21:59:08 | DEBUG    | SENSOR_WORKER | Leitura #6: sensor_id=3 temperatura=23.9
+2026-08-05 21:59:08 | DEBUG    | SENSOR_WORKER | Leitura #7: sensor_id=3 temperatura=24.1
+2026-08-05 21:59:08 | DEBUG    | SENSOR_WORKER | Leitura #8: sensor_id=3 temperatura=25.3
+2026-08-05 21:59:09 | DEBUG    | SENSOR_WORKER | Leitura #9: sensor_id=3 temperatura=24.6
+2026-08-05 21:59:09 | DEBUG    | SENSOR_WORKER | Leitura #10: sensor_id=3 temperatura=23.8
+2026-08-05 21:59:09 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-05 21:59:09 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (140 bytes)
+2026-08-05 21:59:09 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (140 bytes)
+2026-08-05 21:59:23 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-05 21:59:23 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-05 21:59:23 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-05 21:59:23 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-05 21:59:23 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-05 22:02:55 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-05 22:02:56 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-05 22:02:56 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-05 22:02:56 | DEBUG    | SENSOR_WORKER | Runner iniciado: sensor_id=3
+2026-08-05 22:02:56 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=1/5
+2026-08-05 22:02:57 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=2/5
+2026-08-05 22:02:58 | ERROR    | SENSOR_WORKER | Leitura descartada: sensor_id=3 temperatura=-127.0 fora dos limites físicos (-40.0-80.0)
+2026-08-05 22:02:58 | DEBUG    | API_CLIENT | Enviando erro do sensor (sensor_id=3)
+2026-08-05 22:02:58 | WARNING  | API_CLIENT | Erro do sensor reportado (sensor_id=3)
+2026-08-05 22:03:01 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=4/5
+2026-08-05 22:03:05 | DEBUG    | SENSOR_WORKER | Leitura obtida: sensor_id=3 temperatura=24.3 tentativa=5/5
+2026-08-05 22:03:05 | DEBUG    | SENSOR_WORKER | Leitura final: sensor_id=3 temperatura=24.3
+2026-08-05 22:10:55 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-05 22:10:55 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-05 22:10:55 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-05 22:10:55 | DEBUG    | SENSOR_WORKER | Runner iniciado: sensor_id=3
+2026-08-05 22:10:56 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=1/5
+2026-08-05 22:10:57 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=2/5
+2026-08-05 22:10:58 | ERROR    | SENSOR_WORKER | Erro na leitura do sensor: sensor_id=3
+2026-08-05 22:10:58 | DEBUG    | API_CLIENT | Enviando erro do sensor (sensor_id=3)
+2026-08-05 22:10:58 | WARNING  | API_CLIENT | Erro do sensor reportado (sensor_id=3)
+2026-08-05 22:11:00 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=4/5
+2026-08-05 22:11:05 | DEBUG    | SENSOR_WORKER | Leitura obtida: sensor_id=3 temperatura=24.3 tentativa=5/5
+2026-08-05 22:11:05 | DEBUG    | SENSOR_WORKER | Leitura final: sensor_id=3 temperatura=24.3
+2026-08-06 16:07:27 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:07:27 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:07:27 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:07:28 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:07:28 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:07:28 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:07:28 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:07:28 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:07:28 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:07:28 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:07:28 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:07:28 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:08:58 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:08:59 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:08:59 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:08:59 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:08:59 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:08:59 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:08:59 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:08:59 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:08:59 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:08:59 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:08:59 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:08:59 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:12:12 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:12:12 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:12:12 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:12:13 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:12:13 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:12:13 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:12:13 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:12:13 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:12:13 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:12:13 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:12:14 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:12:14 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:12:14 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/1/MOCK
+2026-08-06 16:12:14 | DEBUG    | MQTT | Publicando em plant_monitor/1/MOCK (110 bytes)
+2026-08-06 16:12:14 | DEBUG    | PUBLISHER | Publicado em plant_monitor/1/MOCK (110 bytes)
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:14 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:12:15 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-06 16:12:15 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:12:15 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:14:46 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:14:46 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:14:46 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:14:47 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:14:47 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:14:47 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:14:47 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:14:47 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:14:47 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:14:47 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:14:48 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:14:48 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:14:48 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:14:48 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/1/MOCK
+2026-08-06 16:14:48 | DEBUG    | MQTT | Publicando em plant_monitor/1/MOCK (110 bytes)
+2026-08-06 16:14:48 | DEBUG    | PUBLISHER | Publicado em plant_monitor/1/MOCK (110 bytes)
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:14:48 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:14:48 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-06 16:14:48 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:14:48 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:16:57 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:16:57 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:16:57 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:16:58 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:16:58 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:16:58 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:16:58 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:16:58 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:16:58 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:16:58 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:16:58 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:16:59 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:16:59 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:16:59 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:16:59 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:17:10 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:17:10 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:17:10 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:17:10 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:17:10 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:17:11 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:17:11 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:17:11 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:17:11 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:17:11 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:17:11 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:17:11 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:17:11 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:17:11 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:17:11 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:19:22 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:19:22 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:19:22 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:19:22 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:19:22 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:19:23 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:19:23 | INFO     | SENSOR_POOL | Descoberta de sensores iniciada
+2026-08-06 16:19:23 | DEBUG    | API_CLIENT | Requisitando sensores da API
+2026-08-06 16:19:23 | DEBUG    | API_CLIENT | Sensores retornados com sucesso
+2026-08-06 16:19:23 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:19:23 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:19:23 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:19:23 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:19:23 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:19:23 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:19:23 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:19:23 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:19:23 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:19:24 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:19:24 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:19:24 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:19:24 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/1/UMIDADE_SOLO
+2026-08-06 16:19:24 | DEBUG    | MQTT | Publicando em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:19:24 | DEBUG    | PUBLISHER | Publicado em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:19:24 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-06 16:19:24 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:19:24 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:22:10 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:22:11 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:22:11 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:22:11 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:22:11 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:22:11 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:22:11 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:22:12 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:22:12 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:22:12 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:22:12 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:22:12 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:22:12 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:22:12 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:22:12 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:22:12 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:22:12 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:22:12 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:22:13 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:22:13 | DEBUG    | SENSOR_WORKER | Leitura realizada com sucesso
+2026-08-06 16:22:13 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:22:13 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:22:13 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/1/UMIDADE_SOLO
+2026-08-06 16:22:13 | DEBUG    | MQTT | Publicando em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:22:13 | DEBUG    | PUBLISHER | Publicado em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:22:13 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-06 16:22:13 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:22:13 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:24:23 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:24:23 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:24:23 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:24:23 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:24:23 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:24:24 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:24:24 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:24:24 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:24:24 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:24:25 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:24:25 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:24:25 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:24:25 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:24:25 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 umidade=38.5
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:24:25 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:24:25 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/1/UMIDADE_SOLO
+2026-08-06 16:24:25 | DEBUG    | MQTT | Publicando em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:24:25 | DEBUG    | PUBLISHER | Publicado em plant_monitor/1/UMIDADE_SOLO (118 bytes)
+2026-08-06 16:24:25 | DEBUG    | PUBLISHER | Publishing topic plant_monitor/3/TEMPERATURA
+2026-08-06 16:24:25 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:24:25 | DEBUG    | PUBLISHER | Publicado em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:24:44 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:24:45 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:24:45 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:24:45 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:24:45 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:24:45 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:24:45 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:24:46 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:24:46 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:24:46 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:24:46 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:24:46 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:24:46 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:24:46 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:24:46 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:24:46 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:24:46 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:24:46 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:24:46 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:24:47 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 umidade=38.5
+2026-08-06 16:24:47 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:24:47 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:24:47 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:26:46 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:26:46 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:26:46 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:26:46 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:26:46 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:26:47 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:26:47 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:26:47 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:26:48 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:26:48 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:26:48 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:26:48 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:26:48 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:26:48 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 umidade=38.5
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:26:48 | DEBUG    | SENSOR_WORKER | 5 Leituras do sensor_id=3 acumuladas, iniciando o envio para nuvem...
+2026-08-06 16:26:48 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:28:23 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:28:23 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:28:23 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:28:23 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:28:23 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:28:24 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:28:24 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:28:24 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:28:24 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:28:24 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:28:24 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:28:24 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:28:25 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:28:25 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:28:25 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=3 temperatura=22.4
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #2: sensor_id=3 temperatura=23.1
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #3: sensor_id=3 temperatura=24.6
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #1: sensor_id=1 umidade=38.5
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #4: sensor_id=3 temperatura=25.0
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | Leitura #5: sensor_id=3 temperatura=24.8
+2026-08-06 16:28:25 | DEBUG    | SENSOR_WORKER | 5 Leituras do sensor_id=3 acumuladas, iniciando o envio para nuvem...
+2026-08-06 16:28:25 | DEBUG    | MQTT | Publicando em plant_monitor/3/TEMPERATURA (117 bytes)
+2026-08-06 16:32:16 | DEBUG    | API_CLIENT | Verificando existência do device na API (uuid=f656cca5-20eb-47f7-9126-281d0bc6b35f)
+2026-08-06 16:32:16 | DEBUG    | API_CLIENT | Device encontrado na API
+2026-08-06 16:32:16 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:32:17 | INFO     | MQTT | Inicializando conexão com broker MQTT
+2026-08-06 16:32:17 | DEBUG    | MQTT | Conectando ao MQTT broker (173.249.6.202:1883)...
+2026-08-06 16:32:17 | INFO     | API_CLIENT | Enviando Status de online para Api.
+2026-08-06 16:32:17 | INFO     | SENSOR_POOL | Iniciando varredura de sensores cadastrados
+2026-08-06 16:32:18 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=umidade_solo modelo=YL-69 id=1
+2026-08-06 16:32:18 | DEBUG    | SENSOR_POOL | Sensor detectado: tipo=temperatura modelo=LM35DZ id=3
+2026-08-06 16:32:18 | INFO     | SENSOR_POOL | Varredura concluída: 2 sensor(es) encontrado(s)
+2026-08-06 16:32:18 | INFO     | SENSOR_POOL | Adicionando runner para sensor 1
+2026-08-06 16:32:18 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:32:18 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:32:18 | INFO     | SENSOR_POOL | Adicionando runner para sensor 3
+2026-08-06 16:32:18 | DEBUG    | SENSOR_WORKER | Worker criado
+2026-08-06 16:32:18 | INFO     | SENSOR_WORKER | Worker iniciado
+2026-08-06 16:32:18 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=1/5
+2026-08-06 16:32:19 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=2/5
+2026-08-06 16:32:21 | ERROR    | SENSOR_WORKER | Erro na leitura do sensor: sensor_id=3
+2026-08-06 16:32:21 | DEBUG    | API_CLIENT | Enviando erro do sensor (sensor_id=3)
+2026-08-06 16:32:21 | WARNING  | API_CLIENT | Erro do sensor reportado (sensor_id=3)
+2026-08-06 16:32:23 | WARNING  | SENSOR_WORKER | Sensor não respondeu: sensor_id=3 tentativa=4/5
+2026-08-06 16:32:27 | DEBUG    | SENSOR_WORKER | Leitura obtida: sensor_id=3 temperatura=24.3 tentativa=5/5
+2026-08-06 16:32:27 | DEBUG    | SENSOR_WORKER | Leitura obtida: sensor_id=3 temperatura=24.3
